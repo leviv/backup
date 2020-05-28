@@ -1,6 +1,14 @@
+Install this repo
+```
+git clone git@github.com:leviv/backup.git
+```
+
 Install powerline font
+
 Change terminal colors to solarized dark
+
 Change terminal font to powerline font
+
 
 Install oh-my-zsh
 ```

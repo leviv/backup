@@ -31,3 +31,12 @@ Change `ZSH_THEME="agnoster"` in `~/.zshrc` and add the ensure the following lin
 ```
 source ~/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 ```
+
+## Future things to automate
+- Set dock animation time to .1s
+- Set dock to auto hide
+- set scroll direction to non-natural
+- set top and right hot corners to show desktop
+- turn on tap to click
+- Increase trackpad and mouse speed
+- open google chrome, VSCode, iterm2, spotify installation pages in the chrome browser

@@ -4,7 +4,7 @@ Install this repo
 git clone git@github.com:leviv/backup.git
 ```
 
-Install a [powerline-patched font](https://github.com/powerline/fonts). The included font Source Code Pro works.
+Install a [powerline-patched font](https://github.com/powerline/fonts). The included font [Source Code Pro](https://github.com/powerline/fonts/blob/master/SourceCodePro/Source%20Code%20Pro%20for%20Powerline.otf) works.
 
 Change terminal colors to solarized dark. Most terminals have this color profile as one of the defaults.
 

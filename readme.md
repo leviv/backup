@@ -41,3 +41,7 @@ source ~/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 - install powerline font
 - Populate .zshrc
 - Install oh-my-zsh plugin
+- Download typora
+- default mouse scroll direction unnatural
+- Download logi options
+- Port over vscode preferences

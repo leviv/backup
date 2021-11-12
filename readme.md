@@ -42,6 +42,8 @@ source ~/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 - Populate .zshrc
 - Install oh-my-zsh plugin
 - Download typora
+- Download OBS
+- install homebrew
 - default mouse scroll direction unnatural
 - Download logi options
-- Port over vscode preferences
+- Port over vscode preferences (I think I can just do this with settings sync)

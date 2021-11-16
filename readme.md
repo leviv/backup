@@ -46,4 +46,6 @@ source ~/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 - install homebrew
 - default mouse scroll direction unnatural
 - Download logi options
+- Generate ssh key
+- Install mac media key forwarder
 - Port over vscode preferences (I think I can just do this with settings sync)
